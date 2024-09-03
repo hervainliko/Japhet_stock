@@ -1,0 +1,666 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="2" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" PropertyReference="ApplicationSettings.Japhet.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.Odbc" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString1 (Settings)" PropertyReference="ApplicationSettings.Japhet.Properties.Settings.GlobalReference.Default.ConnectionString1" Provider="System.Data.Odbc" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString2" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString2 (Settings)" PropertyReference="ApplicationSettings.Japhet.Properties.Settings.GlobalReference.Default.ConnectionString2" Provider="System.Data.Odbc" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ReleveClientTableAdapter" GeneratorDataComponentClassName="ReleveClientTableAdapter" Name="ReleveClient" UserDataComponentName="ReleveClientTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select customes.Codeclient,customes.noms,customes.genre,customes.telephone,customes.adresse,
+ customes.fonction,dateexercice.IDdate,date_format(DateExec,'%d-%m-%Y') as DateExec, toperations.IDoperation,toperations.libelle,toperations.MontantDepot,toperations.MontantRetrait,(MontantDepot)-(MontantRetrait)  as SOLDE
+ FROM customes,toperations,dateexercice
+ where customes.Codeclient=toperations.Codeclient  and
+		toperations.IDdate=dateexercice.IDdate
+ order by toperations.IDoperation ASC</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="libelle" DataSetColumn="libelle" />
+              <Mapping SourceColumn="IDdate" DataSetColumn="IDdate" />
+              <Mapping SourceColumn="Codeclient" DataSetColumn="Codeclient" />
+              <Mapping SourceColumn="noms" DataSetColumn="noms" />
+              <Mapping SourceColumn="genre" DataSetColumn="genre" />
+              <Mapping SourceColumn="telephone" DataSetColumn="telephone" />
+              <Mapping SourceColumn="adresse" DataSetColumn="adresse" />
+              <Mapping SourceColumn="fonction" DataSetColumn="fonction" />
+              <Mapping SourceColumn="IDoperation" DataSetColumn="IDoperation" />
+              <Mapping SourceColumn="MontantDepot" DataSetColumn="MontantDepot" />
+              <Mapping SourceColumn="MontantRetrait" DataSetColumn="MontantRetrait" />
+              <Mapping SourceColumn="SOLDE" DataSetColumn="SOLDE" />
+              <Mapping SourceColumn="DateExec" DataSetColumn="DateExec" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ReleveEpargneTableAdapter" GeneratorDataComponentClassName="ReleveEpargneTableAdapter" Name="ReleveEpargne" UserDataComponentName="ReleveEpargneTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>  select customes.Codeclient,customes.noms,customes.genre,customes.telephone,customes.adresse,
+ customes.fonction,tplanepargne.IDEPARG,tplanepargne.libelle,tplanepargne.montentdepot,tplanepargne.Montretrait,
+ dateexercice.IDdate,date_format(DateExec,'%d-%m-%Y') as DateExec,(montentdepot)-(Montretrait) AS SOLDE FROM customes,tplanepargne,dateexercice
+WHERE customes.Codeclient=tplanepargne.Codeclient AND
+	   dateexercice.IDdate=tplanepargne.IDdate order by IDEPARG asc</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Codeclient" DataSetColumn="Codeclient" />
+              <Mapping SourceColumn="noms" DataSetColumn="noms" />
+              <Mapping SourceColumn="genre" DataSetColumn="genre" />
+              <Mapping SourceColumn="telephone" DataSetColumn="telephone" />
+              <Mapping SourceColumn="adresse" DataSetColumn="adresse" />
+              <Mapping SourceColumn="fonction" DataSetColumn="fonction" />
+              <Mapping SourceColumn="IDEPARG" DataSetColumn="IDEPARG" />
+              <Mapping SourceColumn="libelle" DataSetColumn="libelle" />
+              <Mapping SourceColumn="montentdepot" DataSetColumn="montentdepot" />
+              <Mapping SourceColumn="Montretrait" DataSetColumn="Montretrait" />
+              <Mapping SourceColumn="IDdate" DataSetColumn="IDdate" />
+              <Mapping SourceColumn="SOLDE" DataSetColumn="SOLDE" />
+              <Mapping SourceColumn="DateExec" DataSetColumn="DateExec" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="recupeseTableAdapter" GeneratorDataComponentClassName="recupeseTableAdapter" Name="recupese" UserDataComponentName="recupeseTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select customes.Codeclient,customes.noms,dateexercice.IDdate,dateexercice.DateExec,descpese.IdDesc,descpese.numerateur,descpese.indice,
+descpese.poids,descpese.pourcentage,descpese.PU,pesage.NumPese,(PU*poids) as PT FROM customes,dateexercice,pesage,descpese
+ where pesage.Codeclient=customes.Codeclient and
+		dateexercice.IDdate=pesage.IDdate and
+        descpese.NumPese=pesage.NumPese
+        order by IdDesc</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Codeclient" DataSetColumn="Codeclient" />
+              <Mapping SourceColumn="noms" DataSetColumn="noms" />
+              <Mapping SourceColumn="IDdate" DataSetColumn="IDdate" />
+              <Mapping SourceColumn="DateExec" DataSetColumn="DateExec" />
+              <Mapping SourceColumn="numerateur" DataSetColumn="numerateur" />
+              <Mapping SourceColumn="PU" DataSetColumn="PU" />
+              <Mapping SourceColumn="NumPese" DataSetColumn="NumPese" />
+              <Mapping SourceColumn="PT" DataSetColumn="PT" />
+              <Mapping SourceColumn="IdDesc" DataSetColumn="IdDesc" />
+              <Mapping SourceColumn="indice" DataSetColumn="indice" />
+              <Mapping SourceColumn="poids" DataSetColumn="poids" />
+              <Mapping SourceColumn="pourcentage" DataSetColumn="pourcentage" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="recusTableAdapter" GeneratorDataComponentClassName="recusTableAdapter" Name="recus" UserDataComponentName="recusTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString1 (Settings)" DbObjectName="" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select pesage.NumPese,dateexercice.IDdate,customes.Codeclient,customes.noms,descpese.idDesc,numerateur,poids,pourcentage,PU,PT,pesage.total,DateExec from descpese,pesage,customes,dateexercice WHERE descpese.NumPese=pesage.NumPese 
+AND customes.Codeclient=pesage.Codeclient 
+AND dateexercice.IDdate=pesage.IDdate
+AND descpese.NumPese=?</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param1" ColumnName="NumPese" DataSourceName="db_japhet.descpese" DataTypeServer="integer" DbType="Int32" Direction="Input" ParameterName="NumPese" Precision="0" Scale="0" Size="0" SourceColumn="NumPese" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="NumPese" DataSetColumn="NumPese" />
+              <Mapping SourceColumn="IDdate" DataSetColumn="IDdate" />
+              <Mapping SourceColumn="Codeclient" DataSetColumn="Codeclient" />
+              <Mapping SourceColumn="noms" DataSetColumn="noms" />
+              <Mapping SourceColumn="idDesc" DataSetColumn="idDesc" />
+              <Mapping SourceColumn="numerateur" DataSetColumn="numerateur" />
+              <Mapping SourceColumn="poids" DataSetColumn="poids" />
+              <Mapping SourceColumn="pourcentage" DataSetColumn="pourcentage" />
+              <Mapping SourceColumn="PU" DataSetColumn="PU" />
+              <Mapping SourceColumn="PT" DataSetColumn="PT" />
+              <Mapping SourceColumn="total" DataSetColumn="total" />
+              <Mapping SourceColumn="DateExec" DataSetColumn="DateExec" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="recubienTableAdapter" GeneratorDataComponentClassName="recubienTableAdapter" Name="recubien" UserDataComponentName="recubienTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString1 (Settings)" DbObjectName="" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select pesage.NumPese,dateexercice.IDdate,customes.Codeclient,customes.noms,descpese.idDesc,numerateur,poids,pourcentage,PU,PT,pesage.total,DateExec from descpese,pesage,customes,dateexercice WHERE descpese.NumPese=pesage.NumPese 
+AND customes.Codeclient=pesage.Codeclient 
+AND dateexercice.IDdate=pesage.IDdate
+</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="NumPese" DataSetColumn="NumPese" />
+              <Mapping SourceColumn="IDdate" DataSetColumn="IDdate" />
+              <Mapping SourceColumn="Codeclient" DataSetColumn="Codeclient" />
+              <Mapping SourceColumn="noms" DataSetColumn="noms" />
+              <Mapping SourceColumn="idDesc" DataSetColumn="idDesc" />
+              <Mapping SourceColumn="numerateur" DataSetColumn="numerateur" />
+              <Mapping SourceColumn="poids" DataSetColumn="poids" />
+              <Mapping SourceColumn="pourcentage" DataSetColumn="pourcentage" />
+              <Mapping SourceColumn="PU" DataSetColumn="PU" />
+              <Mapping SourceColumn="PT" DataSetColumn="PT" />
+              <Mapping SourceColumn="total" DataSetColumn="total" />
+              <Mapping SourceColumn="DateExec" DataSetColumn="DateExec" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="RlivreTableAdapter" GeneratorDataComponentClassName="RlivreTableAdapter" Name="Rlivre" UserDataComponentName="RlivreTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select usedb.NomUser,customes.Codeclient,customes.noms,dateexercice.IDdate, date_format(DateExec,'%d-%m-%Y') as  DateExec,pesage.NumPese,
+numerateur,indice,pourcentage,PU,poids,reference,PT,bourse,teneur
+from customes,usedb,dateexercice,descpese,pesage
+where pesage.Codeclient=customes.Codeclient and
+	  pesage.compteUser=usedb.compteUser and
+      pesage.NumPese=descpese.NumPese and
+	  pesage.IDdate=dateexercice.IDdate</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="NomUser" DataSetColumn="NomUser" />
+              <Mapping SourceColumn="Codeclient" DataSetColumn="Codeclient" />
+              <Mapping SourceColumn="noms" DataSetColumn="noms" />
+              <Mapping SourceColumn="IDdate" DataSetColumn="IDdate" />
+              <Mapping SourceColumn="DateExec" DataSetColumn="DateExec" />
+              <Mapping SourceColumn="NumPese" DataSetColumn="NumPese" />
+              <Mapping SourceColumn="numerateur" DataSetColumn="numerateur" />
+              <Mapping SourceColumn="indice" DataSetColumn="indice" />
+              <Mapping SourceColumn="pourcentage" DataSetColumn="pourcentage" />
+              <Mapping SourceColumn="PU" DataSetColumn="PU" />
+              <Mapping SourceColumn="poids" DataSetColumn="poids" />
+              <Mapping SourceColumn="reference" DataSetColumn="reference" />
+              <Mapping SourceColumn="PT" DataSetColumn="PT" />
+              <Mapping SourceColumn="bourse" DataSetColumn="bourse" />
+              <Mapping SourceColumn="teneur" DataSetColumn="teneur" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="RjournalierTableAdapter" GeneratorDataComponentClassName="RjournalierTableAdapter" Name="Rjournalier" UserDataComponentName="RjournalierTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select customes.Codeclient,customes.noms,dateexercice.IDdate, date_format(e.DateExec,'%d-%m-%Y') as  DateExec ,MontantDepot,MontantRetrait,approvcaisse.Montant,(MontantDepot-MontantRetrait) as solde,((Montant-MontantRetrait)+(MontantDepot)) AS RESTANT
+from customes,dateexercice,approvcaisse,toperations r inner join dateexercice e on r.IDdate=e.IDdate 
+where  r.Codeclient=customes.Codeclient and
+		r.IDdate=dateexercice.IDdate and
+         approvcaisse.IDdate=dateexercice.IDdate and
+         r.IDApprov=approvcaisse.IDApprov</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Codeclient" DataSetColumn="Codeclient" />
+              <Mapping SourceColumn="noms" DataSetColumn="noms" />
+              <Mapping SourceColumn="IDdate" DataSetColumn="IDdate" />
+              <Mapping SourceColumn="DateExec" DataSetColumn="DateExec" />
+              <Mapping SourceColumn="MontantDepot" DataSetColumn="MontantDepot" />
+              <Mapping SourceColumn="MontantRetrait" DataSetColumn="MontantRetrait" />
+              <Mapping SourceColumn="Montant" DataSetColumn="Montant" />
+              <Mapping SourceColumn="solde" DataSetColumn="solde" />
+              <Mapping SourceColumn="RESTANT" DataSetColumn="RESTANT" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="RepargneTableAdapter" GeneratorDataComponentClassName="RepargneTableAdapter" Name="Repargne" UserDataComponentName="RepargneTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select customes.Codeclient,customes.noms,dateexercice.IDdate, date_format(e.DateExec,'%d-%m-%Y') as  DateExec ,montentdepot,Montretrait,approvcaisse.Montant,(montentdepot-Montretrait) as solde,((montentdepot-Montretrait)-(Montant-Montretrait)) AS RESTANT
+from customes,dateexercice,approvcaisse,tplanepargne r inner join dateexercice e on r.IDdate=e.IDdate 
+where  r.Codeclient=customes.Codeclient and
+		r.IDdate=dateexercice.IDdate and
+         approvcaisse.IDdate=dateexercice.IDdate and
+          r.IDApprov=approvcaisse.IDApprov</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Codeclient" DataSetColumn="Codeclient" />
+              <Mapping SourceColumn="noms" DataSetColumn="noms" />
+              <Mapping SourceColumn="IDdate" DataSetColumn="IDdate" />
+              <Mapping SourceColumn="DateExec" DataSetColumn="DateExec" />
+              <Mapping SourceColumn="montentdepot" DataSetColumn="montentdepot" />
+              <Mapping SourceColumn="Montretrait" DataSetColumn="Montretrait" />
+              <Mapping SourceColumn="Montant" DataSetColumn="Montant" />
+              <Mapping SourceColumn="solde" DataSetColumn="solde" />
+              <Mapping SourceColumn="RESTANT" DataSetColumn="RESTANT" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ReleveCustomesTableAdapter" GeneratorDataComponentClassName="ReleveCustomesTableAdapter" Name="ReleveCustomes" UserDataComponentName="ReleveCustomesTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        Codeclient, noms, genre, telephone, adresse, fonction, IDdate, DateExec, IDoperation, libelle, MontantDepot, MontantRetrait, SOLDE
+FROM            relevecustomes</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Codeclient" DataSetColumn="Codeclient" />
+              <Mapping SourceColumn="noms" DataSetColumn="noms" />
+              <Mapping SourceColumn="genre" DataSetColumn="genre" />
+              <Mapping SourceColumn="telephone" DataSetColumn="telephone" />
+              <Mapping SourceColumn="adresse" DataSetColumn="adresse" />
+              <Mapping SourceColumn="fonction" DataSetColumn="fonction" />
+              <Mapping SourceColumn="IDdate" DataSetColumn="IDdate" />
+              <Mapping SourceColumn="DateExec" DataSetColumn="DateExec" />
+              <Mapping SourceColumn="IDoperation" DataSetColumn="IDoperation" />
+              <Mapping SourceColumn="libelle" DataSetColumn="libelle" />
+              <Mapping SourceColumn="MontantDepot" DataSetColumn="MontantDepot" />
+              <Mapping SourceColumn="MontantRetrait" DataSetColumn="MontantRetrait" />
+              <Mapping SourceColumn="SOLDE" DataSetColumn="SOLDE" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ReleveClient" msprop:Generator_RowEvHandlerName="ReleveClientRowChangeEventHandler" msprop:Generator_RowDeletedName="ReleveClientRowDeleted" msprop:Generator_RowDeletingName="ReleveClientRowDeleting" msprop:Generator_RowEvArgName="ReleveClientRowChangeEvent" msprop:Generator_TablePropName="ReleveClient" msprop:Generator_RowChangedName="ReleveClientRowChanged" msprop:Generator_UserTableName="ReleveClient" msprop:Generator_RowChangingName="ReleveClientRowChanging" msprop:Generator_RowClassName="ReleveClientRow" msprop:Generator_TableClassName="ReleveClientDataTable" msprop:Generator_TableVarName="tableReleveClient">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="libelle" msprop:Generator_ColumnPropNameInTable="libelleColumn" msprop:Generator_ColumnPropNameInRow="libelle" msprop:Generator_UserColumnName="libelle" msprop:Generator_ColumnVarNameInTable="columnlibelle">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="765" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IDdate" msprop:Generator_ColumnPropNameInTable="IDdateColumn" msprop:Generator_ColumnPropNameInRow="IDdate" msprop:Generator_UserColumnName="IDdate" msprop:Generator_ColumnVarNameInTable="columnIDdate" type="xs:int" />
+              <xs:element name="Codeclient" msprop:Generator_ColumnPropNameInTable="CodeclientColumn" msprop:Generator_ColumnPropNameInRow="Codeclient" msprop:Generator_UserColumnName="Codeclient" msprop:Generator_ColumnVarNameInTable="columnCodeclient" type="xs:int" />
+              <xs:element name="noms" msprop:Generator_ColumnPropNameInTable="nomsColumn" msprop:Generator_ColumnPropNameInRow="noms" msprop:Generator_UserColumnName="noms" msprop:Generator_ColumnVarNameInTable="columnnoms">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="765" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="genre" msprop:Generator_ColumnPropNameInTable="genreColumn" msprop:Generator_ColumnPropNameInRow="genre" msprop:Generator_UserColumnName="genre" msprop:Generator_ColumnVarNameInTable="columngenre">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="telephone" msprop:Generator_ColumnPropNameInTable="telephoneColumn" msprop:Generator_ColumnPropNameInRow="telephone" msprop:Generator_UserColumnName="telephone" msprop:Generator_ColumnVarNameInTable="columntelephone" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="adresse" msprop:Generator_ColumnPropNameInTable="adresseColumn" msprop:Generator_ColumnPropNameInRow="adresse" msprop:Generator_UserColumnName="adresse" msprop:Generator_ColumnVarNameInTable="columnadresse">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="765" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="fonction" msprop:Generator_ColumnPropNameInTable="fonctionColumn" msprop:Generator_ColumnPropNameInRow="fonction" msprop:Generator_UserColumnName="fonction" msprop:Generator_ColumnVarNameInTable="columnfonction">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="765" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IDoperation" msprop:Generator_ColumnPropNameInTable="IDoperationColumn" msprop:Generator_ColumnPropNameInRow="IDoperation" msprop:Generator_UserColumnName="IDoperation" msprop:Generator_ColumnVarNameInTable="columnIDoperation" type="xs:int" />
+              <xs:element name="MontantDepot" msprop:Generator_ColumnPropNameInTable="MontantDepotColumn" msprop:Generator_ColumnPropNameInRow="MontantDepot" msprop:Generator_UserColumnName="MontantDepot" msprop:Generator_ColumnVarNameInTable="columnMontantDepot" type="xs:float" minOccurs="0" />
+              <xs:element name="MontantRetrait" msprop:Generator_ColumnPropNameInTable="MontantRetraitColumn" msprop:Generator_ColumnPropNameInRow="MontantRetrait" msprop:Generator_UserColumnName="MontantRetrait" msprop:Generator_ColumnVarNameInTable="columnMontantRetrait" type="xs:float" minOccurs="0" />
+              <xs:element name="SOLDE" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInTable="SOLDEColumn" msprop:Generator_ColumnPropNameInRow="SOLDE" msprop:Generator_UserColumnName="SOLDE" msprop:Generator_ColumnVarNameInTable="columnSOLDE" type="xs:double" minOccurs="0" />
+              <xs:element name="DateExec" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInTable="DateExecColumn" msprop:Generator_ColumnPropNameInRow="DateExec" msprop:Generator_UserColumnName="DateExec" msprop:Generator_ColumnVarNameInTable="columnDateExec" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ReleveEpargne" msprop:Generator_RowEvHandlerName="ReleveEpargneRowChangeEventHandler" msprop:Generator_RowDeletedName="ReleveEpargneRowDeleted" msprop:Generator_RowDeletingName="ReleveEpargneRowDeleting" msprop:Generator_RowEvArgName="ReleveEpargneRowChangeEvent" msprop:Generator_TablePropName="ReleveEpargne" msprop:Generator_RowChangedName="ReleveEpargneRowChanged" msprop:Generator_UserTableName="ReleveEpargne" msprop:Generator_RowChangingName="ReleveEpargneRowChanging" msprop:Generator_RowClassName="ReleveEpargneRow" msprop:Generator_TableClassName="ReleveEpargneDataTable" msprop:Generator_TableVarName="tableReleveEpargne">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Codeclient" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="CodeclientColumn" msprop:Generator_ColumnPropNameInRow="Codeclient" msprop:Generator_UserColumnName="Codeclient" msprop:Generator_ColumnVarNameInTable="columnCodeclient" type="xs:int" minOccurs="0" />
+              <xs:element name="noms" msprop:Generator_ColumnPropNameInTable="nomsColumn" msprop:Generator_ColumnPropNameInRow="noms" msprop:Generator_UserColumnName="noms" msprop:Generator_ColumnVarNameInTable="columnnoms">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="765" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="genre" msprop:Generator_ColumnPropNameInTable="genreColumn" msprop:Generator_ColumnPropNameInRow="genre" msprop:Generator_UserColumnName="genre" msprop:Generator_ColumnVarNameInTable="columngenre">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="telephone" msprop:Generator_ColumnPropNameInTable="telephoneColumn" msprop:Generator_ColumnPropNameInRow="telephone" msprop:Generator_UserColumnName="telephone" msprop:Generator_ColumnVarNameInTable="columntelephone" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="adresse" msprop:Generator_ColumnPropNameInTable="adresseColumn" msprop:Generator_ColumnPropNameInRow="adresse" msprop:Generator_UserColumnName="adresse" msprop:Generator_ColumnVarNameInTable="columnadresse">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="765" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="fonction" msprop:Generator_ColumnPropNameInTable="fonctionColumn" msprop:Generator_ColumnPropNameInRow="fonction" msprop:Generator_UserColumnName="fonction" msprop:Generator_ColumnVarNameInTable="columnfonction">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="765" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IDEPARG" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="IDEPARGColumn" msprop:Generator_ColumnPropNameInRow="IDEPARG" msprop:Generator_UserColumnName="IDEPARG" msprop:Generator_ColumnVarNameInTable="columnIDEPARG" type="xs:int" minOccurs="0" />
+              <xs:element name="libelle" msprop:Generator_ColumnPropNameInTable="libelleColumn" msprop:Generator_ColumnPropNameInRow="libelle" msprop:Generator_UserColumnName="libelle" msprop:Generator_ColumnVarNameInTable="columnlibelle" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="765" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="montentdepot" msprop:Generator_ColumnPropNameInTable="montentdepotColumn" msprop:Generator_ColumnPropNameInRow="montentdepot" msprop:Generator_UserColumnName="montentdepot" msprop:Generator_ColumnVarNameInTable="columnmontentdepot" type="xs:float" minOccurs="0" />
+              <xs:element name="Montretrait" msprop:Generator_ColumnPropNameInTable="MontretraitColumn" msprop:Generator_ColumnPropNameInRow="Montretrait" msprop:Generator_UserColumnName="Montretrait" msprop:Generator_ColumnVarNameInTable="columnMontretrait" type="xs:float" minOccurs="0" />
+              <xs:element name="IDdate" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="IDdateColumn" msprop:Generator_ColumnPropNameInRow="IDdate" msprop:Generator_UserColumnName="IDdate" msprop:Generator_ColumnVarNameInTable="columnIDdate" type="xs:int" minOccurs="0" />
+              <xs:element name="SOLDE" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInTable="SOLDEColumn" msprop:Generator_ColumnPropNameInRow="SOLDE" msprop:Generator_UserColumnName="SOLDE" msprop:Generator_ColumnVarNameInTable="columnSOLDE" type="xs:double" minOccurs="0" />
+              <xs:element name="DateExec" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInTable="DateExecColumn" msprop:Generator_ColumnPropNameInRow="DateExec" msprop:Generator_UserColumnName="DateExec" msprop:Generator_ColumnVarNameInTable="columnDateExec" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="recupese" msprop:Generator_RowEvHandlerName="recupeseRowChangeEventHandler" msprop:Generator_RowDeletedName="recupeseRowDeleted" msprop:Generator_RowDeletingName="recupeseRowDeleting" msprop:Generator_RowEvArgName="recupeseRowChangeEvent" msprop:Generator_TablePropName="recupese" msprop:Generator_RowChangedName="recupeseRowChanged" msprop:Generator_UserTableName="recupese" msprop:Generator_RowChangingName="recupeseRowChanging" msprop:Generator_RowClassName="recupeseRow" msprop:Generator_TableClassName="recupeseDataTable" msprop:Generator_TableVarName="tablerecupese">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Codeclient" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="CodeclientColumn" msprop:Generator_ColumnPropNameInRow="Codeclient" msprop:Generator_UserColumnName="Codeclient" msprop:Generator_ColumnVarNameInTable="columnCodeclient" type="xs:int" />
+              <xs:element name="noms" msprop:Generator_ColumnPropNameInTable="nomsColumn" msprop:Generator_ColumnPropNameInRow="noms" msprop:Generator_UserColumnName="noms" msprop:Generator_ColumnVarNameInTable="columnnoms">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="765" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IDdate" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="IDdateColumn" msprop:Generator_ColumnPropNameInRow="IDdate" msprop:Generator_UserColumnName="IDdate" msprop:Generator_ColumnVarNameInTable="columnIDdate" type="xs:int" />
+              <xs:element name="DateExec" msprop:Generator_ColumnPropNameInTable="DateExecColumn" msprop:Generator_ColumnPropNameInRow="DateExec" msprop:Generator_UserColumnName="DateExec" msprop:Generator_ColumnVarNameInTable="columnDateExec" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="numerateur" msprop:Generator_ColumnPropNameInTable="numerateurColumn" msprop:Generator_ColumnPropNameInRow="numerateur" msprop:Generator_UserColumnName="numerateur" msprop:Generator_ColumnVarNameInTable="columnnumerateur" type="xs:float" />
+              <xs:element name="PU" msprop:Generator_ColumnPropNameInTable="PUColumn" msprop:Generator_ColumnPropNameInRow="PU" msprop:Generator_UserColumnName="PU" msprop:Generator_ColumnVarNameInTable="columnPU" type="xs:float" />
+              <xs:element name="NumPese" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="NumPeseColumn" msprop:Generator_ColumnPropNameInRow="NumPese" msprop:Generator_UserColumnName="NumPese" msprop:Generator_ColumnVarNameInTable="columnNumPese" type="xs:int" />
+              <xs:element name="PT" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInTable="PTColumn" msprop:Generator_ColumnPropNameInRow="PT" msprop:Generator_UserColumnName="PT" msprop:Generator_ColumnVarNameInTable="columnPT" type="xs:double" minOccurs="0" />
+              <xs:element name="IdDesc" msprop:Generator_ColumnPropNameInTable="IdDescColumn" msprop:Generator_ColumnPropNameInRow="IdDesc" msprop:Generator_UserColumnName="IdDesc" msprop:Generator_ColumnVarNameInTable="columnIdDesc" type="xs:int" />
+              <xs:element name="indice" msprop:Generator_ColumnPropNameInTable="indiceColumn" msprop:Generator_ColumnPropNameInRow="indice" msprop:Generator_UserColumnName="indice" msprop:Generator_ColumnVarNameInTable="columnindice" type="xs:float" />
+              <xs:element name="poids" msprop:Generator_ColumnPropNameInTable="poidsColumn" msprop:Generator_ColumnPropNameInRow="poids" msprop:Generator_UserColumnName="poids" msprop:Generator_ColumnVarNameInTable="columnpoids" type="xs:float" minOccurs="0" />
+              <xs:element name="pourcentage" msprop:Generator_ColumnPropNameInTable="pourcentageColumn" msprop:Generator_ColumnPropNameInRow="pourcentage" msprop:Generator_UserColumnName="pourcentage" msprop:Generator_ColumnVarNameInTable="columnpourcentage" type="xs:float" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="recus" msprop:Generator_RowEvHandlerName="recusRowChangeEventHandler" msprop:Generator_RowDeletedName="recusRowDeleted" msprop:Generator_RowDeletingName="recusRowDeleting" msprop:Generator_RowEvArgName="recusRowChangeEvent" msprop:Generator_TablePropName="recus" msprop:Generator_RowChangedName="recusRowChanged" msprop:Generator_UserTableName="recus" msprop:Generator_RowChangingName="recusRowChanging" msprop:Generator_RowClassName="recusRow" msprop:Generator_TableClassName="recusDataTable" msprop:Generator_TableVarName="tablerecus">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NumPese" msprop:Generator_ColumnPropNameInTable="NumPeseColumn" msprop:Generator_ColumnPropNameInRow="NumPese" msprop:Generator_UserColumnName="NumPese" msprop:Generator_ColumnVarNameInTable="columnNumPese" type="xs:int" />
+              <xs:element name="IDdate" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="IDdateColumn" msprop:Generator_ColumnPropNameInRow="IDdate" msprop:Generator_UserColumnName="IDdate" msprop:Generator_ColumnVarNameInTable="columnIDdate" type="xs:int" minOccurs="0" />
+              <xs:element name="Codeclient" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="CodeclientColumn" msprop:Generator_ColumnPropNameInRow="Codeclient" msprop:Generator_UserColumnName="Codeclient" msprop:Generator_ColumnVarNameInTable="columnCodeclient" type="xs:int" minOccurs="0" />
+              <xs:element name="noms" msprop:Generator_ColumnPropNameInTable="nomsColumn" msprop:Generator_ColumnPropNameInRow="noms" msprop:Generator_UserColumnName="noms" msprop:Generator_ColumnVarNameInTable="columnnoms">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="765" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="idDesc" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="idDescColumn" msprop:Generator_ColumnPropNameInRow="idDesc" msprop:Generator_UserColumnName="idDesc" msprop:Generator_ColumnVarNameInTable="columnidDesc" type="xs:int" minOccurs="0" />
+              <xs:element name="numerateur" msprop:Generator_ColumnPropNameInTable="numerateurColumn" msprop:Generator_ColumnPropNameInRow="numerateur" msprop:Generator_UserColumnName="numerateur" msprop:Generator_ColumnVarNameInTable="columnnumerateur" type="xs:float" />
+              <xs:element name="poids" msprop:Generator_ColumnPropNameInTable="poidsColumn" msprop:Generator_ColumnPropNameInRow="poids" msprop:Generator_UserColumnName="poids" msprop:Generator_ColumnVarNameInTable="columnpoids" type="xs:float" minOccurs="0" />
+              <xs:element name="pourcentage" msprop:Generator_ColumnPropNameInTable="pourcentageColumn" msprop:Generator_ColumnPropNameInRow="pourcentage" msprop:Generator_UserColumnName="pourcentage" msprop:Generator_ColumnVarNameInTable="columnpourcentage" type="xs:float" />
+              <xs:element name="PU" msprop:Generator_ColumnPropNameInTable="PUColumn" msprop:Generator_ColumnPropNameInRow="PU" msprop:Generator_UserColumnName="PU" msprop:Generator_ColumnVarNameInTable="columnPU" type="xs:float" />
+              <xs:element name="PT" msprop:Generator_ColumnPropNameInTable="PTColumn" msprop:Generator_ColumnPropNameInRow="PT" msprop:Generator_UserColumnName="PT" msprop:Generator_ColumnVarNameInTable="columnPT" type="xs:double" minOccurs="0" />
+              <xs:element name="total" msprop:Generator_ColumnPropNameInTable="totalColumn" msprop:Generator_ColumnPropNameInRow="total" msprop:Generator_UserColumnName="total" msprop:Generator_ColumnVarNameInTable="columntotal" type="xs:double" minOccurs="0" />
+              <xs:element name="DateExec" msprop:Generator_ColumnPropNameInTable="DateExecColumn" msprop:Generator_ColumnPropNameInRow="DateExec" msprop:Generator_UserColumnName="DateExec" msprop:Generator_ColumnVarNameInTable="columnDateExec" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="recubien" msprop:Generator_RowEvHandlerName="recubienRowChangeEventHandler" msprop:Generator_RowDeletedName="recubienRowDeleted" msprop:Generator_RowDeletingName="recubienRowDeleting" msprop:Generator_RowEvArgName="recubienRowChangeEvent" msprop:Generator_TablePropName="recubien" msprop:Generator_RowChangedName="recubienRowChanged" msprop:Generator_UserTableName="recubien" msprop:Generator_RowChangingName="recubienRowChanging" msprop:Generator_RowClassName="recubienRow" msprop:Generator_TableClassName="recubienDataTable" msprop:Generator_TableVarName="tablerecubien">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NumPese" msprop:Generator_ColumnPropNameInTable="NumPeseColumn" msprop:Generator_ColumnPropNameInRow="NumPese" msprop:Generator_UserColumnName="NumPese" msprop:Generator_ColumnVarNameInTable="columnNumPese" type="xs:int" />
+              <xs:element name="IDdate" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="IDdateColumn" msprop:Generator_ColumnPropNameInRow="IDdate" msprop:Generator_UserColumnName="IDdate" msprop:Generator_ColumnVarNameInTable="columnIDdate" type="xs:int" minOccurs="0" />
+              <xs:element name="Codeclient" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="CodeclientColumn" msprop:Generator_ColumnPropNameInRow="Codeclient" msprop:Generator_UserColumnName="Codeclient" msprop:Generator_ColumnVarNameInTable="columnCodeclient" type="xs:int" minOccurs="0" />
+              <xs:element name="noms" msprop:Generator_ColumnPropNameInTable="nomsColumn" msprop:Generator_ColumnPropNameInRow="noms" msprop:Generator_UserColumnName="noms" msprop:Generator_ColumnVarNameInTable="columnnoms">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="765" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="idDesc" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="idDescColumn" msprop:Generator_ColumnPropNameInRow="idDesc" msprop:Generator_UserColumnName="idDesc" msprop:Generator_ColumnVarNameInTable="columnidDesc" type="xs:int" minOccurs="0" />
+              <xs:element name="numerateur" msprop:Generator_ColumnPropNameInTable="numerateurColumn" msprop:Generator_ColumnPropNameInRow="numerateur" msprop:Generator_UserColumnName="numerateur" msprop:Generator_ColumnVarNameInTable="columnnumerateur" type="xs:float" />
+              <xs:element name="poids" msprop:Generator_ColumnPropNameInTable="poidsColumn" msprop:Generator_ColumnPropNameInRow="poids" msprop:Generator_UserColumnName="poids" msprop:Generator_ColumnVarNameInTable="columnpoids" type="xs:float" minOccurs="0" />
+              <xs:element name="pourcentage" msprop:Generator_ColumnPropNameInTable="pourcentageColumn" msprop:Generator_ColumnPropNameInRow="pourcentage" msprop:Generator_UserColumnName="pourcentage" msprop:Generator_ColumnVarNameInTable="columnpourcentage" type="xs:float" />
+              <xs:element name="PU" msprop:Generator_ColumnPropNameInTable="PUColumn" msprop:Generator_ColumnPropNameInRow="PU" msprop:Generator_UserColumnName="PU" msprop:Generator_ColumnVarNameInTable="columnPU" type="xs:float" />
+              <xs:element name="PT" msprop:Generator_ColumnPropNameInTable="PTColumn" msprop:Generator_ColumnPropNameInRow="PT" msprop:Generator_UserColumnName="PT" msprop:Generator_ColumnVarNameInTable="columnPT" type="xs:double" minOccurs="0" />
+              <xs:element name="total" msprop:Generator_ColumnPropNameInTable="totalColumn" msprop:Generator_ColumnPropNameInRow="total" msprop:Generator_UserColumnName="total" msprop:Generator_ColumnVarNameInTable="columntotal" type="xs:double" minOccurs="0" />
+              <xs:element name="DateExec" msprop:Generator_ColumnPropNameInTable="DateExecColumn" msprop:Generator_ColumnPropNameInRow="DateExec" msprop:Generator_UserColumnName="DateExec" msprop:Generator_ColumnVarNameInTable="columnDateExec" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Rlivre" msprop:Generator_RowEvHandlerName="RlivreRowChangeEventHandler" msprop:Generator_RowDeletedName="RlivreRowDeleted" msprop:Generator_RowDeletingName="RlivreRowDeleting" msprop:Generator_RowEvArgName="RlivreRowChangeEvent" msprop:Generator_TablePropName="Rlivre" msprop:Generator_RowChangedName="RlivreRowChanged" msprop:Generator_UserTableName="Rlivre" msprop:Generator_RowChangingName="RlivreRowChanging" msprop:Generator_RowClassName="RlivreRow" msprop:Generator_TableClassName="RlivreDataTable" msprop:Generator_TableVarName="tableRlivre">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NomUser" msprop:Generator_ColumnPropNameInTable="NomUserColumn" msprop:Generator_ColumnPropNameInRow="NomUser" msprop:Generator_UserColumnName="NomUser" msprop:Generator_ColumnVarNameInTable="columnNomUser">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="765" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Codeclient" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="CodeclientColumn" msprop:Generator_ColumnPropNameInRow="Codeclient" msprop:Generator_UserColumnName="Codeclient" msprop:Generator_ColumnVarNameInTable="columnCodeclient" type="xs:int" minOccurs="0" />
+              <xs:element name="noms" msprop:Generator_ColumnPropNameInTable="nomsColumn" msprop:Generator_ColumnPropNameInRow="noms" msprop:Generator_UserColumnName="noms" msprop:Generator_ColumnVarNameInTable="columnnoms">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="765" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IDdate" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="IDdateColumn" msprop:Generator_ColumnPropNameInRow="IDdate" msprop:Generator_UserColumnName="IDdate" msprop:Generator_ColumnVarNameInTable="columnIDdate" type="xs:int" minOccurs="0" />
+              <xs:element name="DateExec" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInTable="DateExecColumn" msprop:Generator_ColumnPropNameInRow="DateExec" msprop:Generator_UserColumnName="DateExec" msprop:Generator_ColumnVarNameInTable="columnDateExec" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NumPese" msprop:Generator_ColumnPropNameInTable="NumPeseColumn" msprop:Generator_ColumnPropNameInRow="NumPese" msprop:Generator_UserColumnName="NumPese" msprop:Generator_ColumnVarNameInTable="columnNumPese" type="xs:int" />
+              <xs:element name="numerateur" msprop:Generator_ColumnPropNameInTable="numerateurColumn" msprop:Generator_ColumnPropNameInRow="numerateur" msprop:Generator_UserColumnName="numerateur" msprop:Generator_ColumnVarNameInTable="columnnumerateur" type="xs:float" />
+              <xs:element name="indice" msprop:Generator_ColumnPropNameInTable="indiceColumn" msprop:Generator_ColumnPropNameInRow="indice" msprop:Generator_UserColumnName="indice" msprop:Generator_ColumnVarNameInTable="columnindice" type="xs:float" />
+              <xs:element name="pourcentage" msprop:Generator_ColumnPropNameInTable="pourcentageColumn" msprop:Generator_ColumnPropNameInRow="pourcentage" msprop:Generator_UserColumnName="pourcentage" msprop:Generator_ColumnVarNameInTable="columnpourcentage" type="xs:float" />
+              <xs:element name="PU" msprop:Generator_ColumnPropNameInTable="PUColumn" msprop:Generator_ColumnPropNameInRow="PU" msprop:Generator_UserColumnName="PU" msprop:Generator_ColumnVarNameInTable="columnPU" type="xs:float" />
+              <xs:element name="poids" msprop:Generator_ColumnPropNameInTable="poidsColumn" msprop:Generator_ColumnPropNameInRow="poids" msprop:Generator_UserColumnName="poids" msprop:Generator_ColumnVarNameInTable="columnpoids" type="xs:float" minOccurs="0" />
+              <xs:element name="reference" msprop:Generator_ColumnPropNameInTable="referenceColumn" msprop:Generator_ColumnPropNameInRow="reference" msprop:Generator_UserColumnName="reference" msprop:Generator_ColumnVarNameInTable="columnreference" type="xs:double" minOccurs="0" />
+              <xs:element name="PT" msprop:Generator_ColumnPropNameInTable="PTColumn" msprop:Generator_ColumnPropNameInRow="PT" msprop:Generator_UserColumnName="PT" msprop:Generator_ColumnVarNameInTable="columnPT" type="xs:double" minOccurs="0" />
+              <xs:element name="bourse" msprop:Generator_ColumnPropNameInTable="bourseColumn" msprop:Generator_ColumnPropNameInRow="bourse" msprop:Generator_UserColumnName="bourse" msprop:Generator_ColumnVarNameInTable="columnbourse" type="xs:double" minOccurs="0" />
+              <xs:element name="teneur" msprop:Generator_ColumnPropNameInTable="teneurColumn" msprop:Generator_ColumnPropNameInRow="teneur" msprop:Generator_UserColumnName="teneur" msprop:Generator_ColumnVarNameInTable="columnteneur" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Rjournalier" msprop:Generator_RowEvHandlerName="RjournalierRowChangeEventHandler" msprop:Generator_RowDeletedName="RjournalierRowDeleted" msprop:Generator_RowDeletingName="RjournalierRowDeleting" msprop:Generator_RowEvArgName="RjournalierRowChangeEvent" msprop:Generator_TablePropName="Rjournalier" msprop:Generator_RowChangedName="RjournalierRowChanged" msprop:Generator_UserTableName="Rjournalier" msprop:Generator_RowChangingName="RjournalierRowChanging" msprop:Generator_RowClassName="RjournalierRow" msprop:Generator_TableClassName="RjournalierDataTable" msprop:Generator_TableVarName="tableRjournalier">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Codeclient" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="CodeclientColumn" msprop:Generator_ColumnPropNameInRow="Codeclient" msprop:Generator_UserColumnName="Codeclient" msprop:Generator_ColumnVarNameInTable="columnCodeclient" type="xs:int" minOccurs="0" />
+              <xs:element name="noms" msprop:Generator_ColumnPropNameInTable="nomsColumn" msprop:Generator_ColumnPropNameInRow="noms" msprop:Generator_UserColumnName="noms" msprop:Generator_ColumnVarNameInTable="columnnoms">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="765" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IDdate" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="IDdateColumn" msprop:Generator_ColumnPropNameInRow="IDdate" msprop:Generator_UserColumnName="IDdate" msprop:Generator_ColumnVarNameInTable="columnIDdate" type="xs:int" minOccurs="0" />
+              <xs:element name="DateExec" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInTable="DateExecColumn" msprop:Generator_ColumnPropNameInRow="DateExec" msprop:Generator_UserColumnName="DateExec" msprop:Generator_ColumnVarNameInTable="columnDateExec" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MontantDepot" msprop:Generator_ColumnPropNameInTable="MontantDepotColumn" msprop:Generator_ColumnPropNameInRow="MontantDepot" msprop:Generator_UserColumnName="MontantDepot" msprop:Generator_ColumnVarNameInTable="columnMontantDepot" type="xs:float" minOccurs="0" />
+              <xs:element name="MontantRetrait" msprop:Generator_ColumnPropNameInTable="MontantRetraitColumn" msprop:Generator_ColumnPropNameInRow="MontantRetrait" msprop:Generator_UserColumnName="MontantRetrait" msprop:Generator_ColumnVarNameInTable="columnMontantRetrait" type="xs:float" minOccurs="0" />
+              <xs:element name="Montant" msprop:Generator_ColumnPropNameInTable="MontantColumn" msprop:Generator_ColumnPropNameInRow="Montant" msprop:Generator_UserColumnName="Montant" msprop:Generator_ColumnVarNameInTable="columnMontant" type="xs:double" minOccurs="0" />
+              <xs:element name="solde" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInTable="soldeColumn" msprop:Generator_ColumnPropNameInRow="solde" msprop:Generator_UserColumnName="solde" msprop:Generator_ColumnVarNameInTable="columnsolde" type="xs:double" minOccurs="0" />
+              <xs:element name="RESTANT" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInTable="RESTANTColumn" msprop:Generator_ColumnPropNameInRow="RESTANT" msprop:Generator_UserColumnName="RESTANT" msprop:Generator_ColumnVarNameInTable="columnRESTANT" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Repargne" msprop:Generator_RowEvHandlerName="RepargneRowChangeEventHandler" msprop:Generator_RowDeletedName="RepargneRowDeleted" msprop:Generator_RowDeletingName="RepargneRowDeleting" msprop:Generator_RowEvArgName="RepargneRowChangeEvent" msprop:Generator_TablePropName="Repargne" msprop:Generator_RowChangedName="RepargneRowChanged" msprop:Generator_UserTableName="Repargne" msprop:Generator_RowChangingName="RepargneRowChanging" msprop:Generator_RowClassName="RepargneRow" msprop:Generator_TableClassName="RepargneDataTable" msprop:Generator_TableVarName="tableRepargne">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Codeclient" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="CodeclientColumn" msprop:Generator_ColumnPropNameInRow="Codeclient" msprop:Generator_UserColumnName="Codeclient" msprop:Generator_ColumnVarNameInTable="columnCodeclient" type="xs:int" minOccurs="0" />
+              <xs:element name="noms" msprop:Generator_ColumnPropNameInTable="nomsColumn" msprop:Generator_ColumnPropNameInRow="noms" msprop:Generator_UserColumnName="noms" msprop:Generator_ColumnVarNameInTable="columnnoms">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="765" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IDdate" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="IDdateColumn" msprop:Generator_ColumnPropNameInRow="IDdate" msprop:Generator_UserColumnName="IDdate" msprop:Generator_ColumnVarNameInTable="columnIDdate" type="xs:int" minOccurs="0" />
+              <xs:element name="DateExec" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInTable="DateExecColumn" msprop:Generator_ColumnPropNameInRow="DateExec" msprop:Generator_UserColumnName="DateExec" msprop:Generator_ColumnVarNameInTable="columnDateExec" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="montentdepot" msprop:Generator_ColumnPropNameInTable="montentdepotColumn" msprop:Generator_ColumnPropNameInRow="montentdepot" msprop:Generator_UserColumnName="montentdepot" msprop:Generator_ColumnVarNameInTable="columnmontentdepot" type="xs:float" minOccurs="0" />
+              <xs:element name="Montretrait" msprop:Generator_ColumnPropNameInTable="MontretraitColumn" msprop:Generator_ColumnPropNameInRow="Montretrait" msprop:Generator_UserColumnName="Montretrait" msprop:Generator_ColumnVarNameInTable="columnMontretrait" type="xs:float" minOccurs="0" />
+              <xs:element name="Montant" msprop:Generator_ColumnPropNameInTable="MontantColumn" msprop:Generator_ColumnPropNameInRow="Montant" msprop:Generator_UserColumnName="Montant" msprop:Generator_ColumnVarNameInTable="columnMontant" type="xs:double" minOccurs="0" />
+              <xs:element name="solde" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInTable="soldeColumn" msprop:Generator_ColumnPropNameInRow="solde" msprop:Generator_UserColumnName="solde" msprop:Generator_ColumnVarNameInTable="columnsolde" type="xs:double" minOccurs="0" />
+              <xs:element name="RESTANT" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInTable="RESTANTColumn" msprop:Generator_ColumnPropNameInRow="RESTANT" msprop:Generator_UserColumnName="RESTANT" msprop:Generator_ColumnVarNameInTable="columnRESTANT" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ReleveCustomes" msprop:Generator_RowEvHandlerName="ReleveCustomesRowChangeEventHandler" msprop:Generator_RowDeletedName="ReleveCustomesRowDeleted" msprop:Generator_RowDeletingName="ReleveCustomesRowDeleting" msprop:Generator_RowEvArgName="ReleveCustomesRowChangeEvent" msprop:Generator_TablePropName="ReleveCustomes" msprop:Generator_RowChangedName="ReleveCustomesRowChanged" msprop:Generator_RowChangingName="ReleveCustomesRowChanging" msprop:Generator_TableClassName="ReleveCustomesDataTable" msprop:Generator_RowClassName="ReleveCustomesRow" msprop:Generator_TableVarName="tableReleveCustomes" msprop:Generator_UserTableName="ReleveCustomes">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Codeclient" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInRow="Codeclient" msprop:Generator_ColumnPropNameInTable="CodeclientColumn" msprop:Generator_ColumnVarNameInTable="columnCodeclient" msprop:Generator_UserColumnName="Codeclient" type="xs:int" minOccurs="0" />
+              <xs:element name="noms" msprop:Generator_ColumnPropNameInRow="noms" msprop:Generator_ColumnPropNameInTable="nomsColumn" msprop:Generator_ColumnVarNameInTable="columnnoms" msprop:Generator_UserColumnName="noms">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="765" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="genre" msprop:Generator_ColumnPropNameInRow="genre" msprop:Generator_ColumnPropNameInTable="genreColumn" msprop:Generator_ColumnVarNameInTable="columngenre" msprop:Generator_UserColumnName="genre">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="telephone" msprop:Generator_ColumnPropNameInRow="telephone" msprop:Generator_ColumnPropNameInTable="telephoneColumn" msprop:Generator_ColumnVarNameInTable="columntelephone" msprop:Generator_UserColumnName="telephone" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="adresse" msprop:Generator_ColumnPropNameInRow="adresse" msprop:Generator_ColumnPropNameInTable="adresseColumn" msprop:Generator_ColumnVarNameInTable="columnadresse" msprop:Generator_UserColumnName="adresse">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="765" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="fonction" msprop:Generator_ColumnPropNameInRow="fonction" msprop:Generator_ColumnPropNameInTable="fonctionColumn" msprop:Generator_ColumnVarNameInTable="columnfonction" msprop:Generator_UserColumnName="fonction">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="765" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IDdate" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInRow="IDdate" msprop:Generator_ColumnPropNameInTable="IDdateColumn" msprop:Generator_ColumnVarNameInTable="columnIDdate" msprop:Generator_UserColumnName="IDdate" type="xs:int" minOccurs="0" />
+              <xs:element name="DateExec" msprop:Generator_ColumnPropNameInRow="DateExec" msprop:Generator_ColumnPropNameInTable="DateExecColumn" msprop:Generator_ColumnVarNameInTable="columnDateExec" msprop:Generator_UserColumnName="DateExec" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IDoperation" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInRow="IDoperation" msprop:Generator_ColumnPropNameInTable="IDoperationColumn" msprop:Generator_ColumnVarNameInTable="columnIDoperation" msprop:Generator_UserColumnName="IDoperation" type="xs:int" minOccurs="0" />
+              <xs:element name="libelle" msprop:Generator_ColumnPropNameInRow="libelle" msprop:Generator_ColumnPropNameInTable="libelleColumn" msprop:Generator_ColumnVarNameInTable="columnlibelle" msprop:Generator_UserColumnName="libelle">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="765" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MontantDepot" msprop:Generator_ColumnPropNameInRow="MontantDepot" msprop:Generator_ColumnPropNameInTable="MontantDepotColumn" msprop:Generator_ColumnVarNameInTable="columnMontantDepot" msprop:Generator_UserColumnName="MontantDepot" type="xs:float" minOccurs="0" />
+              <xs:element name="MontantRetrait" msprop:Generator_ColumnPropNameInRow="MontantRetrait" msprop:Generator_ColumnPropNameInTable="MontantRetraitColumn" msprop:Generator_ColumnVarNameInTable="columnMontantRetrait" msprop:Generator_UserColumnName="MontantRetrait" type="xs:float" minOccurs="0" />
+              <xs:element name="SOLDE" msprop:Generator_ColumnPropNameInRow="SOLDE" msprop:Generator_ColumnPropNameInTable="SOLDEColumn" msprop:Generator_ColumnVarNameInTable="columnSOLDE" msprop:Generator_UserColumnName="SOLDE" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:ReleveClient" />
+      <xs:field xpath="mstns:Codeclient" />
+      <xs:field xpath="mstns:IDdate" />
+      <xs:field xpath="mstns:IDoperation" />
+    </xs:unique>
+    <xs:unique name="recupese_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:recupese" />
+      <xs:field xpath="mstns:Codeclient" />
+      <xs:field xpath="mstns:IDdate" />
+      <xs:field xpath="mstns:IdDesc" />
+      <xs:field xpath="mstns:NumPese" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

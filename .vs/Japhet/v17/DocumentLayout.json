@@ -1,0 +1,533 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|d:\\devs\\dbs company\\projet\\japhet bon ok\\iii\\projet bien\\japhet\\vues\\forms\\useroperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\forms\\useroperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\forms\\useroperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\forms\\useroperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\controlview\\usergestioncaisse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\controlview\\usergestioncaisse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\reports\\document\\relevecustomers.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\reports\\document\\relevecustomers.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\controlview\\usergestioncaisse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\controlview\\usergestioncaisse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\reports\\document\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\reports\\document\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\reports\\document\\rapportcaisse.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\reports\\document\\rapportcaisse.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\reports\\document\\rapportcaisse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\reports\\document\\rapportcaisse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\reports\\document\\rcaissejournalier.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\reports\\document\\rcaissejournalier.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\reports\\document\\reportcaisse.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\reports\\document\\reportcaisse.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\reports\\document\\sortiecaisse.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\reports\\document\\sortiecaisse.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\forms\\dateexercice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\forms\\dateexercice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\modeles\\m_dateexercice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:modeles\\m_dateexercice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\controlview\\gestion_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\controlview\\gestion_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\controlview\\gestion_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\controlview\\gestion_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\modeles\\m_role_attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:modeles\\m_role_attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEVS\\DBS COMPANY\\STOCK HERVAIN OK\\gestion_session\\gestion_session\\Modeles\\M_Users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\forms\\frmbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\forms\\frmbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\controlview\\userepargne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\controlview\\userepargne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\controlview\\userepargne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\controlview\\userepargne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\modeles\\m_approvcaisse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:modeles\\m_approvcaisse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\modeles\\m_caisse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:modeles\\m_caisse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\forms\\dateexercice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\forms\\dateexercice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\controlview\\usergestionclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\controlview\\usergestionclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\modeles\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:modeles\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\services\\msgfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:services\\msgfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\controlview\\userpesage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\controlview\\userpesage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\controlview\\userpesage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\controlview\\userpesage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\reports\\document\\recu.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\reports\\document\\recu.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\services\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:services\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\reports\\document\\releveepargne.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\reports\\document\\releveepargne.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\vues\\reports\\document\\dataset1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A455079D-0C6A-489D-B7D9-793232890733}|Japhet.csproj|solutionrelative:vues\\reports\\document\\dataset1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserOperation.cs [Design]",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\forms\\UserOperation.cs",
+              "RelativeDocumentMoniker": "Vues\\forms\\UserOperation.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\forms\\UserOperation.cs [Design]",
+              "RelativeToolTip": "Vues\\forms\\UserOperation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:03:18.895Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserOperation.cs",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\forms\\UserOperation.cs",
+              "RelativeDocumentMoniker": "Vues\\forms\\UserOperation.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\forms\\UserOperation.cs",
+              "RelativeToolTip": "Vues\\forms\\UserOperation.cs",
+              "ViewState": "AQIAALICAAAAAAAAAAAlwL4CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:10:12.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserGestionCaisse.cs",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\controlview\\UserGestionCaisse.cs",
+              "RelativeDocumentMoniker": "Vues\\controlview\\UserGestionCaisse.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\controlview\\UserGestionCaisse.cs",
+              "RelativeToolTip": "Vues\\controlview\\UserGestionCaisse.cs",
+              "ViewState": "AQIAAAkCAAAAAAAAAAAYwCACAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:37:22.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReleveCustomers.rpt",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\ReleveCustomers.rpt",
+              "RelativeDocumentMoniker": "Vues\\Reports\\Document\\ReleveCustomers.rpt",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\ReleveCustomers.rpt",
+              "RelativeToolTip": "Vues\\Reports\\Document\\ReleveCustomers.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-08-28T23:58:29.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserGestionCaisse.cs [Design]",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\controlview\\UserGestionCaisse.cs",
+              "RelativeDocumentMoniker": "Vues\\controlview\\UserGestionCaisse.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\controlview\\UserGestionCaisse.cs [Design]",
+              "RelativeToolTip": "Vues\\controlview\\UserGestionCaisse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:37:16.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "sortieCaisse.rpt",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\sortieCaisse.rpt",
+              "RelativeDocumentMoniker": "Vues\\Reports\\Document\\sortieCaisse.rpt",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\sortieCaisse.rpt",
+              "RelativeToolTip": "Vues\\Reports\\Document\\sortieCaisse.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-08-27T01:35:43.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "Vues\\Reports\\Document\\DataSet1.xsd",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\DataSet1.xsd",
+              "RelativeToolTip": "Vues\\Reports\\Document\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-08-28T23:58:50.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportCaisse.rpt",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\ReportCaisse.rpt",
+              "RelativeDocumentMoniker": "Vues\\Reports\\Document\\ReportCaisse.rpt",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\ReportCaisse.rpt",
+              "RelativeToolTip": "Vues\\Reports\\Document\\ReportCaisse.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-08-27T01:35:51.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RcaisseJournalier.rpt",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\RcaisseJournalier.rpt",
+              "RelativeDocumentMoniker": "Vues\\Reports\\Document\\RcaisseJournalier.rpt",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\RcaisseJournalier.rpt",
+              "RelativeToolTip": "Vues\\Reports\\Document\\RcaisseJournalier.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-08-27T01:35:53.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RapportCaisse.rpt",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\RapportCaisse.rpt",
+              "RelativeDocumentMoniker": "Vues\\Reports\\Document\\RapportCaisse.rpt",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\RapportCaisse.rpt",
+              "RelativeToolTip": "Vues\\Reports\\Document\\RapportCaisse.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-08-27T01:35:13.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RapportCaisse.cs [Design]",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\RapportCaisse.cs",
+              "RelativeDocumentMoniker": "Vues\\Reports\\Document\\RapportCaisse.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\RapportCaisse.cs [Design]",
+              "RelativeToolTip": "Vues\\Reports\\Document\\RapportCaisse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:35:59.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "M_role_attribute.cs",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Modeles\\M_role_attribute.cs",
+              "RelativeDocumentMoniker": "Modeles\\M_role_attribute.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Modeles\\M_role_attribute.cs",
+              "RelativeToolTip": "Modeles\\M_role_attribute.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAALsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:10:52.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "M_Dateexercice.cs",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Modeles\\M_Dateexercice.cs",
+              "RelativeDocumentMoniker": "Modeles\\M_Dateexercice.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Modeles\\M_Dateexercice.cs",
+              "RelativeToolTip": "Modeles\\M_Dateexercice.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAgwKMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:47:15.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DateExercice.cs [Design]",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\forms\\DateExercice.cs",
+              "RelativeDocumentMoniker": "Vues\\forms\\DateExercice.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\forms\\DateExercice.cs [Design]",
+              "RelativeToolTip": "Vues\\forms\\DateExercice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T22:12:54.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "gestion_users.cs",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\controlview\\gestion_users.cs",
+              "RelativeDocumentMoniker": "Vues\\controlview\\gestion_users.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\controlview\\gestion_users.cs",
+              "RelativeToolTip": "Vues\\controlview\\gestion_users.cs",
+              "ViewState": "AQIAAF8CAAAAAAAAAAAAACACAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:33:04.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "gestion_users.cs [Design]",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\controlview\\gestion_users.cs",
+              "RelativeDocumentMoniker": "Vues\\controlview\\gestion_users.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\controlview\\gestion_users.cs [Design]",
+              "RelativeToolTip": "Vues\\controlview\\gestion_users.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:21:26.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "M_Users.cs",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\STOCK HERVAIN OK\\gestion_session\\gestion_session\\Modeles\\M_Users.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\STOCK HERVAIN OK\\gestion_session\\gestion_session\\Modeles\\M_Users.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\STOCK HERVAIN OK\\gestion_session\\gestion_session\\Modeles\\M_Users.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\STOCK HERVAIN OK\\gestion_session\\gestion_session\\Modeles\\M_Users.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T01:11:06.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAkwC8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:54:47.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DateExercice.cs",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\forms\\DateExercice.cs",
+              "RelativeDocumentMoniker": "Vues\\forms\\DateExercice.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\forms\\DateExercice.cs",
+              "RelativeToolTip": "Vues\\forms\\DateExercice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T22:12:56.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Frmbackup.cs",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\forms\\Frmbackup.cs",
+              "RelativeDocumentMoniker": "Vues\\forms\\Frmbackup.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\forms\\Frmbackup.cs",
+              "RelativeToolTip": "Vues\\forms\\Frmbackup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T00:26:07.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserEpargne.cs [Design]",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\controlview\\UserEpargne.cs",
+              "RelativeDocumentMoniker": "Vues\\controlview\\UserEpargne.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\controlview\\UserEpargne.cs [Design]",
+              "RelativeToolTip": "Vues\\controlview\\UserEpargne.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T23:55:38.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserEpargne.cs",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\controlview\\UserEpargne.cs",
+              "RelativeDocumentMoniker": "Vues\\controlview\\UserEpargne.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\controlview\\UserEpargne.cs",
+              "RelativeToolTip": "Vues\\controlview\\UserEpargne.cs",
+              "ViewState": "AQIAAA8CAAAAAAAAAAAxwBgCAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T23:55:56.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "M_Approvcaisse.cs",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Modeles\\M_Approvcaisse.cs",
+              "RelativeDocumentMoniker": "Modeles\\M_Approvcaisse.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Modeles\\M_Approvcaisse.cs",
+              "RelativeToolTip": "Modeles\\M_Approvcaisse.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAgwIwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T23:45:19.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "M_Caisse.cs",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Modeles\\M_Caisse.cs",
+              "RelativeDocumentMoniker": "Modeles\\M_Caisse.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Modeles\\M_Caisse.cs",
+              "RelativeToolTip": "Modeles\\M_Caisse.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAAALsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T23:47:06.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserGestionClients.cs [Design]",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\controlview\\UserGestionClients.cs",
+              "RelativeDocumentMoniker": "Vues\\controlview\\UserGestionClients.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\controlview\\UserGestionClients.cs [Design]",
+              "RelativeToolTip": "Vues\\controlview\\UserGestionClients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:03:15.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Services\\Item.cs",
+              "RelativeDocumentMoniker": "Services\\Item.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Services\\Item.cs",
+              "RelativeToolTip": "Services\\Item.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:14:15.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "connection.cs",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Modeles\\connection.cs",
+              "RelativeDocumentMoniker": "Modeles\\connection.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Modeles\\connection.cs",
+              "RelativeToolTip": "Modeles\\connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:21:59.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserPesage.cs [Design]",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\controlview\\UserPesage.cs",
+              "RelativeDocumentMoniker": "Vues\\controlview\\UserPesage.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\controlview\\UserPesage.cs [Design]",
+              "RelativeToolTip": "Vues\\controlview\\UserPesage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:31:30.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserPesage.cs",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\controlview\\UserPesage.cs",
+              "RelativeDocumentMoniker": "Vues\\controlview\\UserPesage.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\controlview\\UserPesage.cs",
+              "RelativeToolTip": "Vues\\controlview\\UserPesage.cs",
+              "ViewState": "AQIAALUCAAAAAAAAAAAiwMwCAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:31:44.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Recu.rpt",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\Recu.rpt",
+              "RelativeDocumentMoniker": "Vues\\Reports\\Document\\Recu.rpt",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\Recu.rpt",
+              "RelativeToolTip": "Vues\\Reports\\Document\\Recu.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-07-09T19:44:00.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MsgFRM.cs",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Services\\MsgFRM.cs",
+              "RelativeDocumentMoniker": "Services\\MsgFRM.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Services\\MsgFRM.cs",
+              "RelativeToolTip": "Services\\MsgFRM.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:27:17.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReleveEpargne.rpt",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\ReleveEpargne.rpt",
+              "RelativeDocumentMoniker": "Vues\\Reports\\Document\\ReleveEpargne.rpt",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\ReleveEpargne.rpt",
+              "RelativeToolTip": "Vues\\Reports\\Document\\ReleveEpargne.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-26T23:52:58.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DataSet1.cs",
+              "DocumentMoniker": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\DataSet1.cs",
+              "RelativeDocumentMoniker": "Vues\\Reports\\Document\\DataSet1.cs",
+              "ToolTip": "D:\\DEVS\\DBS COMPANY\\PROJET\\Japhet BON ok\\iii\\Projet bien\\Japhet\\Vues\\Reports\\Document\\DataSet1.cs",
+              "RelativeToolTip": "Vues\\Reports\\Document\\DataSet1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T06:52:58.154Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

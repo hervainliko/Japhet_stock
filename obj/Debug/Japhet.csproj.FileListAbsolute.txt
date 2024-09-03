@@ -1,0 +1,651 @@
+E:\Doc ecrits\ODBCS\Projet\Japhet\bin\Debug\Japhet.exe.config
+E:\Doc ecrits\ODBCS\Projet\Japhet\bin\Debug\Japhet.exe
+E:\Doc ecrits\ODBCS\Projet\Japhet\bin\Debug\Japhet.pdb
+E:\Doc ecrits\ODBCS\Projet\Japhet\bin\Debug\MySql.Data.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\obj\Debug\Japhet.csproj.AssemblyReference.cache
+E:\Doc ecrits\ODBCS\Projet\Japhet\obj\Debug\Japhet.Form1.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\obj\Debug\Japhet.Properties.Resources.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\obj\Debug\Japhet.csproj.GenerateResource.cache
+E:\Doc ecrits\ODBCS\Projet\Japhet\obj\Debug\Japhet.csproj.CoreCompileInputs.cache
+E:\Doc ecrits\ODBCS\Projet\Japhet\obj\Debug\Japhet.csproj.CopyComplete
+E:\Doc ecrits\ODBCS\Projet\Japhet\obj\Debug\Japhet.exe
+E:\Doc ecrits\ODBCS\Projet\Japhet\obj\Debug\Japhet.pdb
+E:\Doc ecrits\ODBCS\Projet\Japhet\obj\Debug\Japhet.Vues.forms.Frm_principal.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionClients.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\obj\Debug\Japhet.Vues.controlview.UserOperation.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\obj\Debug\Japhet.Vues.forms.DateExercice.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\obj\Debug\Japhet.Vues.controlview.UserEpargne.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionCaisse.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\obj\Debug\Japhet.Vues.controlview.UserPesage.resources
+C:\Users\HERVAIN\Desktop\Japhet\obj\Debug\Japhet.csproj.AssemblyReference.cache
+C:\Users\HERVAIN\Desktop\Japhet\obj\Debug\Japhet.Form1.resources
+C:\Users\HERVAIN\Desktop\Japhet\obj\Debug\Japhet.Properties.Resources.resources
+C:\Users\HERVAIN\Desktop\Japhet\obj\Debug\Japhet.Vues.controlview.UserEpargne.resources
+C:\Users\HERVAIN\Desktop\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionCaisse.resources
+C:\Users\HERVAIN\Desktop\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionClients.resources
+C:\Users\HERVAIN\Desktop\Japhet\obj\Debug\Japhet.Vues.controlview.UserOperation.resources
+C:\Users\HERVAIN\Desktop\Japhet\obj\Debug\Japhet.Vues.controlview.UserPesage.resources
+C:\Users\HERVAIN\Desktop\Japhet\obj\Debug\Japhet.Vues.forms.DateExercice.resources
+C:\Users\HERVAIN\Desktop\Japhet\obj\Debug\Japhet.Vues.forms.Frm_principal.resources
+C:\Users\HERVAIN\Desktop\Japhet\obj\Debug\Japhet.csproj.GenerateResource.cache
+C:\Users\HERVAIN\Desktop\Japhet\obj\Debug\Japhet.csproj.CoreCompileInputs.cache
+C:\Users\HERVAIN\Desktop\Japhet\obj\Debug\Japhet.exe
+C:\Users\HERVAIN\Desktop\Japhet\obj\Debug\Japhet.pdb
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\Japhet.exe.config
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\Japhet.exe
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\Japhet.pdb
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\MySql.Data.dll
+C:\Users\HERVAIN\Desktop\Japhet\obj\Debug\Japhet.csproj.CopyComplete
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HERVAIN\Desktop\Japhet\bin\Debug\stdole.dll
+C:\Users\HERVAIN\Desktop\Japhet\obj\Debug\Japhet.Vues.Reports.frmReports_design.resources
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\Japhet.exe.config
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\Japhet.exe
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\Japhet.pdb
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\CrystalDecisions.Shared.dll
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\MySql.Data.dll
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\DBS COMPANY\PROJET\Japhet\bin\Debug\stdole.dll
+F:\DBS COMPANY\PROJET\Japhet\obj\Debug\Japhet.csproj.AssemblyReference.cache
+F:\DBS COMPANY\PROJET\Japhet\obj\Debug\Japhet.Properties.Resources.resources
+F:\DBS COMPANY\PROJET\Japhet\obj\Debug\Japhet.Vues.controlview.UserEpargne.resources
+F:\DBS COMPANY\PROJET\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionCaisse.resources
+F:\DBS COMPANY\PROJET\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionClients.resources
+F:\DBS COMPANY\PROJET\Japhet\obj\Debug\Japhet.Vues.controlview.UserOperation.resources
+F:\DBS COMPANY\PROJET\Japhet\obj\Debug\Japhet.Vues.controlview.UserPesage.resources
+F:\DBS COMPANY\PROJET\Japhet\obj\Debug\Japhet.Vues.forms.DateExercice.resources
+F:\DBS COMPANY\PROJET\Japhet\obj\Debug\Japhet.Vues.forms.Frm_principal.resources
+F:\DBS COMPANY\PROJET\Japhet\obj\Debug\Japhet.Vues.Reports.frmReports_design.resources
+F:\DBS COMPANY\PROJET\Japhet\obj\Debug\Japhet.csproj.GenerateResource.cache
+F:\DBS COMPANY\PROJET\Japhet\obj\Debug\Japhet.csproj.CoreCompileInputs.cache
+F:\DBS COMPANY\PROJET\Japhet\obj\Debug\Japhet.csproj.CopyComplete
+F:\DBS COMPANY\PROJET\Japhet\obj\Debug\Japhet.exe
+F:\DBS COMPANY\PROJET\Japhet\obj\Debug\Japhet.pdb
+F:\DBS COMPANY\PROJET\Japhet\obj\Debug\Japhet.btnExit.resources
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.csproj.AssemblyReference.cache
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.btnExit.resources
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.Properties.Resources.resources
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserEpargne.resources
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionCaisse.resources
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionClients.resources
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserOperation.resources
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserPesage.resources
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.DateExercice.resources
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.Frm_principal.resources
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.Vues.Reports.frmReports_design.resources
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.csproj.GenerateResource.cache
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.csproj.CoreCompileInputs.cache
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.exe
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.pdb
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\Japhet.exe.config
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\Japhet.exe
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\Japhet.pdb
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\stdole.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.csproj.CopyComplete
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\MySql.Data.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\Japhet.exe.config
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\Japhet.exe
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\Japhet.pdb
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\CrystalDecisions.Shared.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\MySql.Data.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\stdole.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\obj\Debug\Japhet.csproj.AssemblyReference.cache
+F:\DBS COMPANY\PROJET\Japhet\Japhet\obj\Debug\Japhet.btnExit.resources
+F:\DBS COMPANY\PROJET\Japhet\Japhet\obj\Debug\Japhet.Properties.Resources.resources
+F:\DBS COMPANY\PROJET\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserEpargne.resources
+F:\DBS COMPANY\PROJET\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionCaisse.resources
+F:\DBS COMPANY\PROJET\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionClients.resources
+F:\DBS COMPANY\PROJET\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserOperation.resources
+F:\DBS COMPANY\PROJET\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserPesage.resources
+F:\DBS COMPANY\PROJET\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.DateExercice.resources
+F:\DBS COMPANY\PROJET\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.Frm_principal.resources
+F:\DBS COMPANY\PROJET\Japhet\Japhet\obj\Debug\Japhet.Vues.Reports.frmReports_design.resources
+F:\DBS COMPANY\PROJET\Japhet\Japhet\obj\Debug\Japhet.csproj.GenerateResource.cache
+F:\DBS COMPANY\PROJET\Japhet\Japhet\obj\Debug\Japhet.csproj.CoreCompileInputs.cache
+F:\DBS COMPANY\PROJET\Japhet\Japhet\obj\Debug\Japhet.csproj.CopyComplete
+F:\DBS COMPANY\PROJET\Japhet\Japhet\obj\Debug\Japhet.exe
+F:\DBS COMPANY\PROJET\Japhet\Japhet\obj\Debug\Japhet.pdb
+F:\DBS COMPANY\PROJET\Japhet\Japhet\bin\Debug\mysqlbackup.dll
+F:\DBS COMPANY\PROJET\Japhet\Japhet\obj\Debug\Japhet.csproj.SuggestedBindingRedirects.cache
+F:\DBS COMPANY\PROJET\Japhet\Japhet\obj\Debug\Japhet.exe.config
+F:\DBS COMPANY\PROJET\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.Frmbackup.resources
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.exe.config
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.Frmbackup.resources
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.gestion_users.resources
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.Vues.Reports.Document.Form1.resources
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.config.resources
+C:\Users\Muhesi\Desktop\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.adim.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\Japhet.exe.config
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\Japhet.exe
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\Japhet.pdb
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\CrystalDecisions.Shared.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\MySql.Data.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\mysqlbackup.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\stdole.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.csproj.AssemblyReference.cache
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.csproj.SuggestedBindingRedirects.cache
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.exe.config
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.btnExit.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.Properties.Resources.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.gestion_users.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserEpargne.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionCaisse.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionClients.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserOperation.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserPesage.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.adim.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.config.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.DateExercice.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.Frmbackup.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.Frm_principal.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.loradExcel.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.Vues.Reports.Document.Form1.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.Vues.Reports.frmReports_design.resources
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.csproj.GenerateResource.cache
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.csproj.CoreCompileInputs.cache
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.csproj.CopyComplete
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.exe
+E:\Doc ecrits\ODBCS\Projet\Japhet\Japhet\obj\Debug\Japhet.pdb
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\Japhet.exe.config
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\Japhet.exe
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\Japhet.pdb
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.Shared.dll
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\MySql.Data.dll
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\bin\Debug\stdole.dll
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.csproj.AssemblyReference.cache
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.csproj.SuggestedBindingRedirects.cache
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.exe.config
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.btnExit.resources
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Properties.Resources.resources
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.gestion_users.resources
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserEpargne.resources
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionCaisse.resources
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionClients.resources
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserOperation.resources
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserPesage.resources
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.adim.resources
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.config.resources
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.DateExercice.resources
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.Frmbackup.resources
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.Frm_principal.resources
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.loradExcel.resources
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.Reports.Document.Form1.resources
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.Reports.frmReports_design.resources
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.csproj.GenerateResource.cache
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.csproj.CoreCompileInputs.cache
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.csproj.CopyComplete
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.exe
+F:\DBS COMPANY\PROJET\Projet bien\Japhet\Japhet\obj\Debug\Japhet.pdb
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\Japhet.exe.config
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\Japhet.exe
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\Japhet.pdb
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\MySql.Data.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\stdole.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.csproj.AssemblyReference.cache
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.exe.config
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.btnExit.resources
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Properties.Resources.resources
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.gestion_users.resources
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserEpargne.resources
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionCaisse.resources
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionClients.resources
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserOperation.resources
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.controlview.UserPesage.resources
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.adim.resources
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.config.resources
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.DateExercice.resources
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.Frmbackup.resources
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.Frm_principal.resources
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.loradExcel.resources
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.Reports.Document.Form1.resources
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.Reports.frmReports_design.resources
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.csproj.GenerateResource.cache
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.csproj.CoreCompileInputs.cache
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.csproj.CopyComplete
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.exe
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.pdb
+C:\Users\Muhesi\Desktop\iii\Projet bien\Japhet\Japhet\obj\Debug\Japhet.Vues.forms.detailPese.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.csproj.AssemblyReference.cache
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.btnExit.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.Properties.Resources.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.gestion_users.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserEpargne.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionCaisse.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionClients.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserOperation.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserPesage.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.adim.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.config.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.DateExercice.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.detailPese.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.Frmbackup.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.Frm_principal.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.loradExcel.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.Reports.Document.Form1.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.Reports.frmReports_design.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.csproj.GenerateResource.cache
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.csproj.CoreCompileInputs.cache
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.exe
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.pdb
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\Japhet.exe.config
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\Japhet.exe
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\Japhet.pdb
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.Shared.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\mysqlbackup.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\stdole.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.csproj.SuggestedBindingRedirects.cache
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.exe.config
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\obj\Debug\Japhet.csproj.Up2Date
+D:\DEVS\DBS COMPANY\PROJET\Japhet\iii\Projet bien\Japhet\bin\Debug\System.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\Japhet.exe.config
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\Japhet.exe
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\Japhet.pdb
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.Shared.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\mysqlbackup.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\System.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\stdole.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.csproj.AssemblyReference.cache
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.csproj.SuggestedBindingRedirects.cache
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.exe.config
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.btnExit.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Properties.Resources.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.gestion_users.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserEpargne.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionCaisse.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionClients.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserOperation.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserPesage.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.adim.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.config.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.DateExercice.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.detailPese.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.Frmbackup.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.Frm_principal.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.loradExcel.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.Reports.Document.Form1.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.Reports.frmReports_design.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.csproj.GenerateResource.cache
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.csproj.CoreCompileInputs.cache
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.csproj.Up2Date
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.exe
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.pdb
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\Japhet.exe.config
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\Japhet.exe
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\Japhet.pdb
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\mysqlbackup.dll
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\System.dll
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\bin\Debug\stdole.dll
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.csproj.AssemblyReference.cache
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.csproj.SuggestedBindingRedirects.cache
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.exe.config
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.btnExit.resources
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Properties.Resources.resources
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.gestion_users.resources
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserEpargne.resources
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionCaisse.resources
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionClients.resources
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserOperation.resources
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserPesage.resources
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.adim.resources
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.config.resources
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.DateExercice.resources
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.detailPese.resources
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.Frmbackup.resources
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.Frm_principal.resources
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.loradExcel.resources
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.Reports.Document.Form1.resources
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.Reports.frmReports_design.resources
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.csproj.GenerateResource.cache
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.csproj.CoreCompileInputs.cache
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.csproj.CopyComplete
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.exe
+C:\Users\HERVAIN\Desktop\Japhet BON\iii\Projet bien\Japhet\obj\Debug\Japhet.pdb
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Japhet.exe.config
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Japhet.exe
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Japhet.pdb
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.Shared.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\mysqlbackup.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\stdole.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.csproj.AssemblyReference.cache
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.btnExit.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.Properties.Resources.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.gestion_users.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserEpargne.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionCaisse.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserGestionClients.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserOperation.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.controlview.UserPesage.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.adim.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.config.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.DateExercice.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.detailPese.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.Frmbackup.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.Frm_principal.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.forms.loradExcel.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.Reports.Document.Form1.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.Vues.Reports.frmReports_design.resources
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.csproj.GenerateResource.cache
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.csproj.CoreCompileInputs.cache
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.csproj.Up2Date
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.exe
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\obj\Debug\Japhet.pdb
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\x86\SqlServerSpatial160.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\x64\SqlServerSpatial160.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Azure.Core.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Azure.Identity.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.Identity.Client.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.SqlServer.Server.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Buffers.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.ClientModel.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Memory.Data.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Memory.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Numerics.Vectors.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Security.AccessControl.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Security.Permissions.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Security.Principal.Windows.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Text.Encodings.Web.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Text.Json.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.ValueTuple.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Azure.Core.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Azure.Identity.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.Identity.Client.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.SqlServer.Server.pdb
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\Microsoft.SqlServer.Server.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Buffers.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.ClientModel.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Memory.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Memory.Data.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Numerics.Vectors.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Security.AccessControl.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Security.Permissions.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Security.Principal.Windows.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Text.Encodings.Web.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Text.Json.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\System.ValueTuple.xml
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\DEVS\DBS COMPANY\PROJET\Japhet BON ok\iii\Projet bien\Japhet\bin\Debug\MySql.Data.Entity.dll
